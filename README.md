@@ -84,5 +84,5 @@ npm run dev
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
 
-Live link: https://puter.com/app/meenakshi-ai-resuem-analyzer
+Live link:https://puter.com/app/meenakshi-ai-resume-analyzer
 
